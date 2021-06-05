@@ -160,6 +160,7 @@ return [
     'recurring_and_more'    => 'Повторяющиеся и другие..',
     'due_on'                => 'Срок оплаты:',
     'amount_due'            => 'Сумма к оплате',
+    'financial_year'        => 'Финансовый год',
 
     'card' => [
         'cards'                 => 'Карта | Карты',
